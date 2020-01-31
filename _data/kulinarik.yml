@@ -1,0 +1,59 @@
+
+- id: one
+  title: Kulinarik
+  page: kulinarik
+  row: "row--xl-6-6"
+  description: "Folgende Beispiele sind ein kleiner Ausschnitt aus der japanischen Küche, doch sie zeigen ihre Grundgedanken: Balance der Aromen und Konzentration auf das Wesentliche. "
+
+  pois:
+
+    title:
+    items:
+
+      - title: Ramen - Nudelsuppen
+        id: one-1
+        content: "Als Hybrid zwischen Suppe und Nudelgericht ist Ramen ein echtes Beispiel für japanisches Soulfood. Die unglaublich schmackhaften Nudelsuppen sind ein beliebtes Gericht für unterwegs und sind in allen möglichen Varianten erhältlich, von vegetarisch bis zu Versionen mit Fleisch, Fisch und Meeresfrüchten. Dazu frische Kräuter, ein Algenblatt, ein Ei: diese Suppe heilt (fast) alle Wunden. Übrigens: Bereits zwei Ramen-Bars in Tokio wurden mit einem Michelin-Stern dekoriert."
+
+      - title: Sushi
+        id: one-4
+        content: "Eine feste Säule der japanischen Küche: Sushi. Die kunstvollen Häppchen werden immer mit fangfrischem Fisch zubereitet und nach festen Regeln verspeist. Man beginnt mit der hellsten Farbe und endet mit der fettreichsten Füllung. Dazwischen Ingwerstückchen, um die Geschmacksnerven neu zu kalibrieren. Anders als hierzulande wird in Japan unter Sushi meist Nigiri verstanden, das von Meistern wie Jiro Ono mit Bedachtsamkeit komponiert wird. Nehmen Sie sich die Zeit und kosten sie ebenjene."
+
+      - title: Kaiseki
+        id: one-3
+        content: "Bei einer formellen Tee-Einladung wird ein kleines Mahl serviert, das eine Grundlage für den Tee schafft, Kaiseki. Von vielen als die Vollendung der japanischen Kochkunst betrachtet, sollte sich ein gelungenes Kaiseki-Menü wie eine Sinfonie aus Geschmäckern und Sinneseindrücken entfalten. Leichte Brühen, Reis, eingelegtes oder gekochtes Gemüse und Fisch sollen den Magen nicht belasten und orientieren sich unter anderem an den Vorlieben der Gäste und an den Jahreszeiten. Wenn das nicht ‘food for thought’ ist."
+
+      - title: Teekultur
+        id: one-2
+        content: "Abwarten und Teetrinken? Ganz im Sinne der Japaner. Der Genuss von Grüntee wie Matcha oder Sencha verfolgt eine reinigende und meditative Wirkung. Die Abläufe einer traditionellen Teezeremonie werden seit über 1000 Jahren durch feste Regeln bestimmt. Darunter fällt auch die Sitzordnung und die Verwendung bestimmter Utensilien. Die Teezeremonie soll zur Gelassenheit und inneren Einkehr führen und wird von den vier Begriffen Wa (Harmonie), Kei (Respekt), Sei (Reinheit) und Jaku (Stille) bezeichnet."
+
+
+################################################################################
+
+- id: two
+  title: Kultur
+  page: kulinarik
+  row: "row--xl-6-6"
+  description: "In Japan ist alles eine Kunst. Ob heiße Quelle, Garten oder Tempel, japanische Kultur ist raffiniert, durchdacht und feingeistig. "
+
+  pois:
+
+    title:
+    items:
+
+      - title: Tempel und Religion
+        id: two-2
+        content: "Die Mehrheit der Japaner fühlt sich sowohl dem Shinto als auch dem Buddhismus verbunden und besänftigt die Götter in den Tempeln regelmäßig mit kleinen und großen Geschenken. Viele eindrucksvolle Anlagen finden sich in der ehemaligen Hauptstadt Kyoto und in Nara. Dazu gehören der Klosterberg Hiei im Nordosten Kyotos, Zentrum des Tendai-Buddhismus, und der Berg Koya, Zentrum des Shingon-Buddhismus. Im Alltag scheint der spirituelle Geist der Nation in der täglichen Routine, im Verhaltenskodex und in vielen Ritualen durch."
+
+      - title: Onsen Badekultur
+        id: two-4
+        content: "Auch die japanische Badekultur folgt bestimmten Regeln. Dazu gehört dass man textilfrei und nach Geschlechtern getrennt badet. Zudem sehen viele Badehäuser Tattoos und Piercings ungerne – sie abzukleben kann helfen. Am besten informiert man sich vor einem Besuch über die jeweiligen Hausordnungen. Vor dem Betreten des Wassers sollte der Körper bereits gewaschen sein, das Badehandtuch wird am Beckenrand abgelegt oder auf dem Kopf getragen. Die durchschnittliche Temperatur eines japanischen Onsens ist mit 41-42°C schweißtreibend hoch – so hoch wie die Nachfrage nach Onsen-Resorts."
+
+      - title: Japanische Gärten
+        id: two-3
+        caption: © JNTO
+        content: "Landschaftsarchitektur wird in Japan ernst genommen. Pflanzen, Moosflächen und Steine fügen sich zu wohl durchdachten Kompositionen, die zur Meditation anregen. Solche leicht melancholischen Landschaftstableaus rangieren vom 14 Hektar großen Koraku-en Garten in Okayama zum Miniatur-Steingarten von Ryoan-ji in Kyoto, der an ein abstraktes Kunstwerk aus Kieseln erinnert. Besonderheit: viele Gärten sind Kansho Shiki, das heißt zur puren Kontemplation gedacht und nicht zu betreten. Dies gibt Gartenarchitekten die Freiheit, die größte Wirkung auf Betrachter zu erzielen."
+
+      - title: Geishas in Kyoto
+        id: two-1
+        caption: © JNTO
+        content: "Der Inbegriff der japanischen Weiblichkeit und Raffinesse sind die Geishas und Kyoto ist das Herz der Geisha-Kultur. Während ihrer Ausbildung, die durchschnittlich fünf Jahre dauert, begleitet eine Kami-San die jungen Mädchen. In kleinen Häusern – Okiya genannt – unterhalten die Damen der gehobenen Kultur ihre Gäste im privaten Rahmen mit Gesang, Tanz und Poesie. Wer die Kunst der Geishas erleben möchte, sollte sich die öffentlichen Auftritte nicht entgehen lassen. Täglich im April treten die enigmatischen Damen im Gionja-Viertel Gion Kobu auf."

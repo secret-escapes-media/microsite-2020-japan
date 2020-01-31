@@ -1,0 +1,262 @@
+
+
+<script >
+
+  mapboxgl.accessToken = 'pk.eyJ1IjoiaGFtaXNoamdyYXkiLCJhIjoiY2pkbjBmeGN6MDd1YzMzbXI3cWdpNThjayJ9.3YE8T1H2QUyqNIkxdKWxkg';
+
+  var map = new mapboxgl.Map({
+      container: 'map',
+      //style: 'mapbox://styles/hamishjgray/cjvgni6nh0a991fnz00plzg3o',
+    style:'mapbox://styles/hamishjgray/ck5w7upie5qdr1iqx8ks3odsf',
+      // style: 'mapbox://styles/hamishjgray/ck5w8x0fl0k7x1iogjx2143zo',
+      center: [136.624, 37.9],
+      zoom: 4.9,
+      minZoom: 4,
+      maxZoom: 14
+
+    });
+
+  //console.log(map);
+/*
+  map.fitBounds([[
+          143.7690568,
+          12.2379
+      ], [
+          133.299813,
+          55.1714184
+      ]]);
+*/
+  var nav = new mapboxgl.NavigationControl();
+  map.addControl(nav, 'bottom-right');
+
+
+  map.on('load', function() {
+    // Insert the layer beneath any symbol layer.
+    var layers = map.getStyle().layers;
+
+    var labelLayerId;
+    for (var i = 0; i < layers.length; i++) {
+    if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+      labelLayerId = layers[i].id;
+      break;
+      }
+    }
+
+    });
+
+
+
+    // code from the next step will go here!
+    var geojson = {
+      type: 'FeatureCollection',
+      features: [
+
+
+//************** kulinarik ************
+
+
+{
+  type: 'Feature',
+  geometry: {
+    type: 'Point',
+    coordinates: [139.730359, 35.728682]
+  },
+  properties: {
+    id: '1',
+    cat: 'kulinarik',
+    title: 'Nakiryu Ramen',
+    img: 'one',
+    link: '#',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+  }
+},
+{
+  type: 'Feature',
+  geometry: {
+    type: 'Point',
+    coordinates: [135.777954, 35.005711]
+  },
+  properties: {
+    id: '2',
+    cat: 'kulinarik',
+    title: 'Tea Ceremony',
+    img: 'two',
+    link: '#',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+  }
+},
+{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [135.94578, 35.101767]
+    },
+    properties: {
+      id: '3',
+      cat: 'kulinarik',
+      title: 'Sushi Saito',
+      img: 'three',
+      link: '#',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+    }
+  },
+
+
+    //************** Outdoor ************
+
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [138.730781, 35.362799]
+    },
+    properties: {
+      id: '1',
+      cat: 'outdoor',
+      title: 'Mount Fuji',
+      img: 'one',
+      link: '#',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+    }
+  },
+    {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [131.152641, 32.451645]
+    },
+    properties: {
+      id: '2',
+      cat: 'outdoor',
+      title: 'Kyushu',
+      img: 'two',
+      link: '#',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [137.576409, 35.79764]
+      },
+      properties: {
+        id: '3',
+        cat: 'outdoor',
+        title: 'Kiso-Tal: Breitengrad',
+        img: 'three',
+        link: '#',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [129.738327, 32.627567]
+      },
+      properties: {
+        id: '4',
+        cat: 'outdoor',
+        title: 'Hashima-Island',
+        img: 'four',
+        link: '#',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    },
+
+
+    //************** Tradition ************
+  {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [139.75032, 35.683586]
+      },
+      properties: {
+        id: '1',
+        cat: 'tradition',
+        title: 'Kaiserpalast Tokio',
+        img: 'three',
+        link: '#',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [135.773209, 34.967163]
+      },
+      properties: {
+        id: '2',
+        cat: 'tradition',
+        title: 'Fushii Inari-Taisha',
+        img: 'two',
+        link: '#',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [135.755608, 35.021041]
+      },
+      properties: {
+        id: '3',
+        cat: 'tradition',
+        title: 'Geishas',
+        img: 'two',
+        link: '#',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [141.145721, 42.49538]
+      },
+      properties: {
+        id: '4',
+        cat: 'tradition',
+        title: 'Noboribetsu Onsen',
+        img: 'four',
+        link: '#',
+        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      }
+    }
+
+      ]
+    };
+
+
+    	// add markers to map
+    geojson.features.forEach(function(marker) {
+
+      // create a HTML element for each feature
+      var el = document.createElement('a');
+      //el.innerHTML = 'onlick';
+
+      //document.body.appendChild(el);
+      el.className = 'bv-show marker marker--'+marker.properties.cat;
+      el.id = marker.properties.cat+marker.properties.id;
+
+
+    	//alert(marker.properties.id);
+
+      // make a marker for each feature and add to the map
+    new mapboxgl.Marker(el)
+      .setLngLat(marker.geometry.coordinates)
+      .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
+      .setHTML('<a class="text--black" href="{{site.baseurl}}/'+ marker.properties.cat+'/#'+marker.properties.img +'"><div class="bv-popup-img bg-img--4-3" style="background-image: url({{site.img}}/content/'+marker.properties.cat+'/'+marker.properties.img+'.jpg); "></div><div class="boxpad--lg vpad--sm"><div class=" text text--md text--black text--bold text--upper text--left" >' + marker.properties.title + '</div><div class="space--xxs"></div><div class="text text--justify text--md text--black">' + marker.properties.description + '<span class="text--red text--bold"> Mehr&nbsp;erfahren</span></div></div></a>'))
+
+      /**/
+      .addTo(map);
+
+
+
+    });
+
+</script>

@@ -1,0 +1,80 @@
+
+- id: one
+  title: Wandern in Japan
+  page: outdoor
+  row: "row--xl-4-4-4 row--lg-6-6"
+  description: "Wandern ist in Japan eine Art physische Religion. Gebirge werden als Heilige verehrt und gerne in der Gruppe bestiegen. Wenn Sie frühmorgens eine Gruppe Japaner am Bahnhof sehen, könnten sie gerade zu diesen Zielen unterwegs sein."
+
+  pois:
+
+    title:
+    items:
+
+      - title: Kyushu
+        id: one-1
+        content: "Die drittgrößte - und südwestlichste - Hauptinsel Japans ist für Wanderer mit dem reizvollen Aso-Kuju-Nationalpark von großem Interesse. Das aktivste Vulkangebiet Japans stößt zumeist nur Rauch aus und wenn die Zeichen günstig stehen, können Sie bis an den Rand eines der fünf vulkanischen Berge wandern. Lieber nicht? Dann betrachten Sie die Berge von unten her, von der Grasebene Kusa-Senrigahama. In diesem Idyll werden auch Reitausflüge angeboten."
+
+      - title: Kiso-Tal
+        id: one-2
+        content: "Im Zentrum Japans lockt das Kiso-Tal in Nagano. Östlich von den Zentralalpen und westlich vom Mount Ontake begrenzt, ist das Tal eine Reise in die Vergangenheit, in das ländliche Japan. Der heilige Berg Ontake steht in seiner Größe (3.067 m) nur dem Fuji nach und ist seit über tausend Jahren ein Pilgerziel. Sie können es den Pilgern gleichtun und sich vor der Besteigung des Berges sich in den Kiyotaki- und Shintaki-Wasserfällen rituell reinigen. Sie können es sich auch leicht machen und mit der Seilbahn an den Gipfel heranfahren und die Schreine und Seen des Ontake erkunden."
+
+      - title: Japanische Alpen
+        id: one-3
+        content: "Drei Gebirgszüge formen die Japanischen Alpen: Hida im Norden, Kiso im Zentrum und Akaishi im Süden. Zu den hervorragendsten Attraktionen zählen die majestätischen Bergketten von Kamikochi und das Matsumoto-Schloss. Wandern Sie vorbei an tiefen Schluchten und türkisfarbenen Seen im Hakuba Tal bis hin zum Chubu Sangaku Nationalpark oder lassen Sie das erhabene Senjojiki-Hochtal auf sich wirken. Die sensationellen Ausblicke im Senjojiki werden im Wechsel der Jahreszeiten vom Farbenspiel der Vegetation sehr wirkungsvoll unterstrichen."
+
+
+
+################################################################################
+
+- id: two
+  title: "Onsen: Japans heiße Quellen"
+  page: outdoor
+  row: "row--xl-4-4-4 row--lg-6-6"
+  description: "Mindestens so gerne wie sie wandern, so gerne entspannen sich die Japaner in heißen Quellen, Onsen, die im ganzen Land verstreut sind. Eine Gemeinsamkeit haben sie alle: sie sind äußerst gesund für Körper und Geist – und allemal ein Erlebnis für Besucher."
+
+  pois:
+
+    title:
+    items:
+
+      - title: "Hakone Kowakien Yunessun Onsen: Tokios Quelle"
+        id: two-1
+        caption: © JNTO
+        content: "In Hakone, zu Füßen des Mount Fuji laden sieben Onsen zur Wochenend-Auszeit. Der dazugehörige Themenpark Hakone Kowakien Yunessun hat die ein oder andere Überraschung in seinem Repertoire, darunter Wein- oder Kaffeebäder. Wenn das zu abenteuerlich klingt, dann sind die Open-Air-Bäder mit Bergpanorama, das was Sie brauchen. Allemal ist die Lage des Onsen in der Nähe von Tokio ein gutes Argument für einen Kurzbesuch zur Revitalisierung."
+
+      - title: "Dogo Onsen: Uralte Quelle"
+        id: two-2
+        content: "Der berühmte Kurort beherbergt in einer riesigen Burg seine 3000 Jahre alten, sieben Quellen des Dôgo Onsen. Einer Legende nach heilte ein verwundeter Reiher seinen Fuß in einer der Quellen. Seither werden den Quellen heilende Kräfte nachgesagt. Die teils öffentlich, teils privaten Baderäumlichkeiten sind mit Tobe-Porzellan und Statuen verziert, das leicht alkalische Wasser strömt ohne weitere Beimischungen direkt aus der heißen Quelle. Besonders gefragt sind die begleitenden Teezeremonien."
+
+      - title: "Noboribetsu: Höllische Quellen"
+        id: two-3
+        content: "Hokkaidos Beitrag zur Wellness Top 10 des Landes sind die Onsen in Noboribetsu. Das milchweiße, mineralhaltige Quellwasser mit leicht schwefelhaltiger Note ist für seine gesunde Wirkung bekannt und strömt aus dem Tal der Hölle heran, eine geothermisch aktive Zone. Zahlreiche Hotels bieten das natürliche Heilwasser in ihren Spas und Wellness-Bereichen an; eine Wanderung in der Umgebung ist sehr eindrucksvoll, dort, wo die Erde dampft und die Flüsse schäumen."
+
+
+
+################################################################################
+
+- id: three
+  title: Hashima Island
+  page: outdoor
+  row: "row--xl-6-6"
+  description: "Vor der Küste Nagasakis liegt die verlassene Insel Hashima, auch Gunkanjima (‘Kriegsschiff-Insel’) genannt. Was hat es mit diesem eigentümlichen Stück Land auf sich?"
+
+  pois:
+
+    title:
+    items:
+
+      - title: Man lebt nur zweimal?
+        id: three-1
+        caption: © JNTO
+        content: "So diente die verlassene Insel für den 23. James Bond-Film ‘Skyfall’ als Inspiration, als der Antagonist Raoul Silva sich auf einer ähnlichen Insel voller verlassener Gebäude verschanzt. In Wirklichkeit diente Hashima bis 1974 für den Kohleabbau und war zur selben Zeit mit 5.000 Einwohnern überaus dicht besiedelt, was von außen betrachtet den Eindruck eines Kriegsschiffs erweckte. Nachdem die Mine geschlossen wurde, wurde die Insel aufgegeben und in den Folgejahren von Taifunen stark erodiert. Bonds Version dagegen entstand als Filmkulisse in den Londoner Studios."
+
+      - title: Unterwegs zur Geisterinsel
+        id: three-2
+        content: "Seit 2009 gibt es die Möglichkeit, die Insel von Nagasaki aus anzusteuern und für eine Tour ans Land zu gehen. Mehrere Anbieten organisieren dreistündige Ausflüge zur Geisterinsel, der Aufenthalt an Land ist mit ca. 45 Minuten bemessen. Dabei wird Acht darauf gelegt, den Gebäuden wegen Einsturzgefahr nicht zu Nahe zu kommen. Alternativ können Sie das Gunkanjima Digital Museum in Nagasaki besuchen und sich in einer Simulation in eine Mine begeben."
+
+
+
+
+################################################################################

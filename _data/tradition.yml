@@ -1,0 +1,80 @@
+
+- id: one
+  title: Kyoto
+  page: tradition
+  description: "Mit Leichtigkeit verbindet Tokio Tradition mit Moderne. Götterkult und Kaiserliebe sind hier kein Widerspruch. Sie sollten sich Zeit nehmen, um einige antike Schätze zu besichtigen. Auf den Kaiser werden Sie wahrscheinlich keinen Blick erhaschen können, aber es lohnt sich ein Spaziergang im Park des&nbsp;Palastes."
+
+  pois:
+
+    title:
+    items:
+
+      - title: Geishas
+        id: one-1
+        caption: 	©SHIZUOKA Convention & Visitors Bureau/© JNTO
+        content: "Umrahmt von den schönsten Gärten Tokios liegt der Kaiserpalast. Zuvor der Sitz der Tokugawa-Shogune und nach der Meiji-Restauration 1868 Sitz des Kaisers, so wurde Tokio zur Hauptstadt. Nur zwei Tage im Jahr öffnet er seine Pforte für die Öffentlichkeit. Die Japaner verehren ihren Kaiser, doch ein strenges Hofprotokoll verbietet einen direkten Kontakt zum Volk."
+
+      - title: Tempel& Schreins
+        id: one-2
+        content: "Eine beliebte Sehenswürdigkeit in Tokio ist der Tempel Senso-Ji im Stadtteil Asakusa. Bereits 645 erbaut, zählt die buddhistische Kulturstätte zu den schönsten und ältesten der Stadt. Der Legende nach fanden zwei Brüder eine Statue im Fluss und errichteten eigens diese Weihestätte. 30 Millionen Besucher bitten hier jährlich um irdisches Glück."
+
+      - title: Traditionelle Häuser
+        id: one-3
+        caption: © JNTO
+        content: "Inmitten des Ueno Parks liegt die buddhistische Tempelanlage Kiyomizu Kannon-do. Mit tiefroter Zinnoberfassade, ohne Nägel oder Schrauben errichtet, sollten Sie sich den einzigartig gewachsenen Kiefernzweig ansehen – die sogenannte Mondkiefer. Seit der Edo-Zeit gewachsen und in den Holzschnitten - Einhundert Ansichten von Edo - zu sehen."
+
+
+
+################################################################################
+
+
+- id: two
+  title: Geheimtipp Kiso-Tal
+  page: tradition
+  description: "Selbst Modemuffel kommen hier ins Staunen: Ausgefallene Kreationen und farbenfrohe Looks treffen auf traditionelle Kimono-Garderobe. Nirgendwo sonst können sich die Menschen so persönlich mit Ihrer Kleidung präsentieren. Tokio ist die einfallsreichste und außergewöhnlichste Modemetropole der Welt."
+
+  pois:
+
+    title:
+    items:
+
+
+      - title: Japanische Geschichte
+        id: two-1
+        caption: © JNTO
+        content: "Die elegante Einkaufsmeile in dem Stadtbezirk Ginza präsentiert Kunst und Kultur zugleich. Neben luxuriösen Boutiquen und Shops, befindet sich hier das Teikoku Gekijyou (kaiserliche Theater) und das Kabukiza (Japanische Theater) sowie zahlreiche Kunstgalerien und erstklassige Restaurants."
+
+      - title: Kiso Vulkan
+        id: two-2
+        content: "Zum Staunen: Bunte Süßigkeitenshops mit riesiger rosa Zuckerwatte und süßen Crêpes, flippige Mode-Boutiquen, niedliche Plüschtiere sowie haushohe Videoleinwände zum Zuwinken heißen Sie hier Willkommen."
+
+      - title: Magome & Tsumago
+        id: two-3
+        content: "Zum Staunen: Bunte Süßigkeitenshops mit riesiger rosa Zuckerwatte und süßen Crêpes, flippige Mode-Boutiquen, niedliche Plüschtiere sowie haushohe Videoleinwände zum Zuwinken heißen Sie hier Willkommen."
+
+
+
+################################################################################
+
+
+- id: three
+  title: Halbinsel Satsuma
+  page: tradition
+  description: "Zwischen Tokios Skyline und den Wahrzeichen der Mega-City finden Sie Ruheoasen gefüllt mit historischen Heiligtümern und Tempeln. Gehen Sie auf Entdeckungstour, es lohnt sich diese Parks zu durchstreifen und ab und an dem Straßentrubel zu entfliehen."
+
+  pois:
+
+    title:
+    items:
+
+      - title: Samurai Viertel
+        id: three-1
+        content: "Zentral gelegen und bekannt für seine Kirschblüten im Frühjahr, ein Besuch im Ueno Park lohnt zu jeder Jahreszeit. Es locken die größten Museen der Stadt und zahlreiche Statuen und Heiligtümer, aber vor allem sind es auch die niedlichen Pandas des ersten und größten Zoos Tokios, die in Erinnerung bleiben werden."
+
+      - title: Historische Gärten
+        id: three-2
+        content: "Unweit des höchsten Funkturms der Welt, des Sky-Trees, erstreckt sich der Sumida Park und der gleichnamige Fluss. Mit einer Bootsfahrt lässt sich hier die Gegend entspannt bewundern. Sumidagawa Hanabi Taikai, das Feuerwerksspektakel Ende Juli, lässt sich bestens von der Kototoibashi-Brücke betrachten."
+
+
+
+################################################################################

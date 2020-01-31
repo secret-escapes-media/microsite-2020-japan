@@ -1,0 +1,191 @@
+
+- id: 1
+  title: Geishas
+  hightlight: photo
+  caption: © JNTO
+  cta: Mehr&nbsp;Kultur
+  link: kulinarik/#two
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  videoshow: display:none
+  orientation: landscape
+  description: "Kyoto ist das Herz der japanischen Geisha Kultur. Während ihrer Ausbildung, die bereits im Kindesalter beginnt, begleitet eine Kami-San, die jungen Mädchen. In kleinen Häusern – Okiya genannt –, unterhalten die Damen der gehobenen Kultur, ihre Gäste mit Gesang, Tanz und Poesie. Wer die Kunst der Geishas erleben möchte, sollte sich die öffentlichen Auftritte nicht entgehen lassen: Täglich im April treten die Geishas im traditionellen Gionja-Viertel Gion Kobu auf. "
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 2
+  title: Onsen Badehäuser
+  hightlight: photo
+  cta: Die&nbsp;Badetradition
+  link: outdoor/#three
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "Berühmt in Japan und über die Landesgrenzen hinweg sind die Onsen, die traditionellen Badehäuser mit heißem, heilenden Quellwasser, das auf natürliche Weise gewonnen wird. Das Baden folgt strengen Reglements, so wird nach Geschlechtern getrennt und textilfrei entspannt. In einigen Onsen können Sie kleine, private Pools mieten oder sich mit Massagen und einer Teezeremonie verwöhnen lassen. Dabei baden Sie meistens umrahmt in üppiger Natur. Achtung: Tattoos und Piercings sollten besser abgeklebt werden. "
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 3
+  title: Sumo Ringer
+  hightlight: photo
+  caption: © JNTO
+  cta: Mehr&nbsp;Kultur
+  link: kulinarik/#two
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  videoshow: display:none
+  orientation: landscape
+  description: "Der Ursprung dieser traditionellen Sportart ist zwar ungeklärt, was den Spaß beim Zusehen aber nicht mindert. Planen Sie auf jeden Fall einen Besuch der Wettkämpfe ein, die zwischen März und November in den vier großen Städten Tokio, Osaka, Nagoya und Fukuoka stattfinden. Die Regeln des Kampfes sind leicht verständlich: Wer als erstes seinen Gegner über die Kreislinie schiebt, gewinnt den Kampf. Bevor die Kämpfer jedoch zur Tat schreiten, begutachtet der Ringmeister mit strengem Auge die Protagonisten. Lassen Sie sich dieses Spektakel nicht entgehen."
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 4
+  title: ChiChibu Tama Kai Nationalpark
+  hightlight: photo
+  cta: Mehr&nbsp;Wandern
+  link: outdoor/#one
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "Dieses beliebte Ausflugsziel der Japaner liegt auf der Hauptinsel Honshu in der Kanto-Region. Durch die schnelle und unkomplizierte Anfahrt mit dem Shinkansen, eignet sich auch für Urlauber ein Abstecher in diesen besonderen Nationalpark. Berge, tiefe Schluchten und kleine Seen erstrecken sich über 1250 qm. Auch die beliebten Malaken, eine japanische Affenart, treffen Sie hier beim Baden an. Der streng geschützte Wildpark mit seinen seltenen Pflanzenarten sollte auf Ihrer Sightseeing-Liste nicht fehlen."
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 5
+  title: Karaoke Bars
+  hightlight: photo
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "Karaoke ist eine der beliebtesten Freizeitbeschäftigungen in Japan. Gesungen wird mit Freunden, der Familie oder den Arbeitskollegen zu allen möglichen Tages- und Nachtzeiten. Besuchen Sie eine der Karaoke-Bars und mieten Sie sich einen Raum oder fragen Sie höflich, ob Sie bei den Einheimischen zusehen dürfen. Bei Karaoke, was wörtlich übersetzt 'leeres Orchester' heißt, werden neben traditionellen Musikstücken auch international bekannte Songs gesanglich neu interpretiert. Ein Erlebnis, das für Japan-Besucher sicher einmalig ist. "
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 6
+  title: Mount Fuji
+  hightlight: photo
+  cta: Mehr&nbsp;Wandern
+  link: outdoor/#one
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "2013 wurde der höchste Berg Japans Mount Fuji (oder auch Fuji-San genannt) zum Welttraditionerbe ernannt und ist ein Ausflugsziel der besonderen Art. Gut erreichbar und unweit von Tokio gelegen, ist der meistfotografierte Vulkan mit seinem legendären, schneebedeckten Gipfel zu jeder Jahreszeit eine Reise wert. Durch seine nahezu perfekte Form sieht er beinahe wie gemalt aus und bietet gleichermaßen für Tagesausflüge und längere Aufenthalte beeindruckende Wanderungen und Aussichten."
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 7
+  title: Magnetbahn
+  hightlight: photo
+  caption: © JNTO, © SCMAGLEV and Railway Park/© JNTO
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "Stets neue Weltrekorde stellt Japans Magnetschwebebahn auf. Zuletzt hat die Bahn mit 590 km/h einen neuen Geschwindigkeitsrekord gebrochen. Durch die besondere Antriebsart erleben die Fahrgäste ein ganz einzigartiges Fahrerlebnis. Ohne starke Schwankungen oder ruckeln, schwebt der Zug über den Gleisen, ein Magnetfeld hält ihn in der Spur. Die Fahrt mit diesem besonderen Schienenfahrzeug sollten Sie sich nicht entgehen lassen. Bitte die Länge der Strecken beachten, es handelt sich um einen Fernreisezug. "
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 8
+  title: Street Food
+  hightlight: photo
+  cta: Mehr&nbsp;Kulinarik
+  link: kulinarik/#one
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "Japan ist ein Mekka des Street Foods. Viele kleine Speisen über den Tag verteilt, das ist die Philosophie der japanischen Esstradition. Von salzig bis süß, von fest bis flüssig – es gibt nichts, was Sie nicht in Japan zwischendurch essen könnten. Die traditionelle Ramen – ein Nudelsuppen Gericht – oder feines Sushi: hier kann man nichts falsch machen. Versuchen Sie auch die köstlichen Bento-Boxen, die es meistens an Bahnhöfen gibt. Sehr beliebt sind sogenannte Yakitori-Spieße mit knusprig gebratenem Hähnchenfleisch. Immer frisch, gesund und lecker. "
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 9
+  title: Himeji Burg
+  hightlight: photo
+  photoshow: display:block
+  orientation: landscape
+  videoshow: display:none
+  orientation: landscape
+  description: "Sie ist eines der ältesten Bauwerke Japans und gilt als Paradebeispiel der Burgenbaukunst. Das Unesco Welttraditionerbe und nationale Heiligtum wurde aufwendig restauriert und zählt heute zu den besonderen, historischen Stätten. Im Frühling, zur Kirschblütenzeit, erstrahlt die weiße Burg in besonders schönem Glanz zwischen den rosafarbenen Blüten. Die gesamte Burganlage mit Gärten und Tempeln diente bereits mehrmals großen Hollywood-Spielfilmen und nationalen Filmen als Kulisse. Laiendarsteller erheitern deshalb gerne an den Wochenenden die Besucher als verkleidete Ninjas."
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 10
+  title: Historische Dörfer von Shirakawa-gō und Gokayama
+  hightlight: photo
+  cta: Mehr&nbsp;Kultur
+  link: kulinarik/#two
+  class: >
+    <i class="fa fa-chevron-right bv-link" ></i>
+  photoshow: display:block
+  videoshow: display:none
+  orientation: landscape
+  description: "Gleich drei Dörfer der Region gehören zum Unesco Welttraditionerbe. Sie finden diese im Flusstal des Shōgawa. Die bewohnten Häuser mit ihren ganz besonderen, spitzen Strohdächer – gebaut, um der Last des Schnees Stand zu halten – sind einzigartig und die letzten noch erhaltenen, traditionellen Bauten im Gassho-zukuri Stil. Um mehr Details zu erfahren, empfehlen wir Ihnen eine fachkundige Führung. "
+  page: overview # group for whole page
+  section: one # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+
+
+
+- id: 0
+  title: Video
+  photoshow: display:none
+  videoshow: display:block
+  youtube-id: gqYzEv_AqYM
+  show: display:none
+  orientation: landscape
+  page: overview # group for whole page
+  section: video # group for section of page
+  pages: # modal required on these pages
+    - id: overview
+      youtube-id: gqYzEv_AqYM
