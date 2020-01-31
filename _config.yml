@@ -1,7 +1,7 @@
 # Site settings
 title: Japan
 client:
-  name: Client Name
+  name: Visit Japan
   link: "#client-name"
 core-se-link: https://www.secretescapes.com/current-sales
 # core-se-link: https://www.secretescapes.de/aktuelle-angebote # DE
