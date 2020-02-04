@@ -2,6 +2,7 @@
 - id: one
   title: Shopping Vielfalt
   page: tokio
+  row: "row--xl-4-4-4 row--lg-6-6"
   description: "Mit etwas Recherche und dem nötigen Kleingeld erfüllt Tokio jeden Shoppingwunsch. Egal, ob Sie ein traditonelles Souvenir, die gewagteste Fashion oder Vintage-Shops suchen, hier findet sich meist alles nah beieindander. An die Taschen, fertig, los! "
 
   pois:
@@ -30,6 +31,7 @@
 - id: two
   title: Märkte & Museen
   page: tokio
+  row: "row--xl-4-4-4 row--lg-6-6"
   description: "Im Land der Düfte und Geschmäcker oder im Reich der uferlosen Kunst: ein Markt und zwei Museen, die Pflichtbesuche sind."
 
   pois:
@@ -42,7 +44,7 @@
         caption: © JNTO
         content: "Einstmals war Tsukiji der größte Fischmarkt der Welt auf dem täglich tonnenweise frischer Thunfisch gehandelt wurde. Seitdem der Großmarkt zum Toyosu-Markt weiterzog, ist Tsukiji ein Außenmarkt, wo frische Lebensmittel und Kochgeräte zu erstehen sind. Die Streetfood-Stände und Restaurants blieben erhalten. Gönnen Sie sich gutes Sushi bei ‘sushi mukai’ oder 'Ginza Onodera' oder probieren Sie Spezialitäten wie japanisches Curry, Gyu-don-Eintropf, Wagyu-Rind. Aber auch Fisch für den Normalverbraucher springt im Tsukiji einem in hundert Formen entgegen."
 
-      - title: Immersive Kunst: teamLab Borderless
+      - title: "Immersive Kunst: teamLab Borderless"
         id: two-2
         caption: © JNTO
         content: "Das Kunstwerk im Zeitalter seiner digitalen Reproduzierbarkeit: unter diesem Motto, frei an Benjamin angelehnt, könnte das DIGITAL ART MUSEUM teamLab Borderless stehen. In der Dauerausstellung können seit 2018 Lichtinstallationen des Künstlerkollektivs teamLab in ihrer Interaktion mit Körper und Raum unmittelbar erlebt werden. Die Projektionen und Lichtkunstwerke ändern sich in Wechselwirkung mit den Besuchern und lösen die starre Grenze zwischen Werk und Betrachter auf. Austoben im ‘Athletics Forest’ oder im ‘Forest of Lamps’ in die Ewigkeit eingehen, das ist Kunst von morgen."
@@ -59,6 +61,7 @@
 - id: three
   title: Tempel und Kaiserpalast
   page: tokio
+  row: "row--xl-4-4-4 row--lg-6-6"
   description: "Ehrfürchtig und religiös verheren die Japaner in gleichem Zuge ihren Kaiser und ihre Gottheiten. Stätten wie der Palast oder Tempel und Schreine führen dabei das Profane und das Erhabene zusammen."
 
   pois:
@@ -89,6 +92,7 @@
 - id: four
   title: Mount Fuji
   page: tokio
+  row: "row--xl-4-4-4 row--lg-6-6"
   description: "Mount Fuji, der höchste Berg Japans wird von den Einheimischen verehrt und ist fester Bestandteil der bildenden Kunst. 2013 wurde er zum Weltkulturerbe ernannt. Gut erreichbar ist der Fuji zu jeder Jahreszeit eine Reise wert."
 
   pois:

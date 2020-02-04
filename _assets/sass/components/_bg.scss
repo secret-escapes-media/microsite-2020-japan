@@ -6,6 +6,7 @@
   &--dark  { background-color: $grey-dark; }
   &--black  { background-color: $black; }
   &--red  { background-color: $bv-red; }
+  &--red-transp  { background-color: rgba($bv-red, .8); }
   &--img   { @include background-attributes; }
   &__fixed {
     position: fixed;

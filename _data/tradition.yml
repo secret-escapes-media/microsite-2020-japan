@@ -2,6 +2,7 @@
 - id: one
   title: Kyoto
   page: tradition
+  row: "row--xl-4-4-4 row--lg-6-6"
   description: "Mit Leichtigkeit verbindet Tokio Tradition mit Moderne. Götterkult und Kaiserliebe sind hier kein Widerspruch. Sie sollten sich Zeit nehmen, um einige antike Schätze zu besichtigen. Auf den Kaiser werden Sie wahrscheinlich keinen Blick erhaschen können, aber es lohnt sich ein Spaziergang im Park des&nbsp;Palastes."
 
   pois:
@@ -31,6 +32,7 @@
 - id: two
   title: Geheimtipp Kiso-Tal
   page: tradition
+  row: "row--xl-4-4-4 row--lg-6-6"
   description: "Selbst Modemuffel kommen hier ins Staunen: Ausgefallene Kreationen und farbenfrohe Looks treffen auf traditionelle Kimono-Garderobe. Nirgendwo sonst können sich die Menschen so persönlich mit Ihrer Kleidung präsentieren. Tokio ist die einfallsreichste und außergewöhnlichste Modemetropole der Welt."
 
   pois:
@@ -60,6 +62,7 @@
 - id: three
   title: Halbinsel Satsuma
   page: tradition
+  row: "row--xl-6-6"
   description: "Zwischen Tokios Skyline und den Wahrzeichen der Mega-City finden Sie Ruheoasen gefüllt mit historischen Heiligtümern und Tempeln. Gehen Sie auf Entdeckungstour, es lohnt sich diese Parks zu durchstreifen und ab und an dem Straßentrubel zu entfliehen."
 
   pois:
