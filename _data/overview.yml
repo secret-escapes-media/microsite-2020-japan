@@ -48,7 +48,7 @@
   photoshow: display:block
   videoshow: display:none
   orientation: landscape
-  description: "Der Ursprung dieser traditionellen Sportart ist zwar ungeklärt, was den Spaß beim Zusehen aber nicht mindert. Planen Sie auf jeden Fall einen Besuch der Wettkämpfe ein, die zwischen März und November in den vier großen Städten Tokio, Osaka, Nagoya und Fukuoka stattfinden. Die Regeln des Kampfes sind leicht verständlich: Wer als erstes seinen Gegner über die Kreislinie schiebt, gewinnt den Kampf. Bevor die Kämpfer jedoch zur Tat schreiten, begutachtet der Ringmeister mit strengem Auge die Protagonisten. Lassen Sie sich dieses Spektakel nicht entgehen."
+  description: "Der Ursprung dieser traditionellen Sportart ist zwar ungeklärt, was den Spaß beim Zusehen aber nicht mindert. Planen Sie auf jeden Fall einen Besuch der Wettkämpfe ein, die zwischen März und November in den vier großen Städten Tokyo, Osaka, Nagoya und Fukuoka stattfinden. Die Regeln des Kampfes sind leicht verständlich: Wer als erstes seinen Gegner über die Kreislinie schiebt, gewinnt den Kampf. Bevor die Kämpfer jedoch zur Tat schreiten, begutachtet der Ringmeister mit strengem Auge die Protagonisten. Lassen Sie sich dieses Spektakel nicht entgehen."
   page: overview # group for whole page
   section: one # group for section of page
   pages: # modal required on these pages
@@ -101,7 +101,7 @@
   orientation: landscape
   videoshow: display:none
   orientation: landscape
-  description: "2013 wurde der höchste Berg Japans Mount Fuji (oder auch Fuji-San genannt) zum Welttraditionerbe ernannt und ist ein Ausflugsziel der besonderen Art. Gut erreichbar und unweit von Tokio gelegen, ist der meistfotografierte Vulkan mit seinem legendären, schneebedeckten Gipfel zu jeder Jahreszeit eine Reise wert. Durch seine nahezu perfekte Form sieht er beinahe wie gemalt aus und bietet gleichermaßen für Tagesausflüge und längere Aufenthalte beeindruckende Wanderungen und Aussichten."
+  description: "2013 wurde der höchste Berg Japans Mount Fuji (oder auch Fuji-San genannt) zum Welttraditionerbe ernannt und ist ein Ausflugsziel der besonderen Art. Gut erreichbar und unweit von Tokyo gelegen, ist der meistfotografierte Vulkan mit seinem legendären, schneebedeckten Gipfel zu jeder Jahreszeit eine Reise wert. Durch seine nahezu perfekte Form sieht er beinahe wie gemalt aus und bietet gleichermaßen für Tagesausflüge und längere Aufenthalte beeindruckende Wanderungen und Aussichten."
   page: overview # group for whole page
   section: one # group for section of page
   pages: # modal required on these pages

@@ -77,8 +77,8 @@ $nav-color:          $bv-red;
   &__item {
     display: flex;
     flex: 1 0 auto;
-    border-right: 1px solid rgba($white,.15);
-    &:last-child { border-right: 0; }
+    //border-right: 1px solid rgba($white,.15);
+    //&:last-child { border-right: 0; }
   }
   &__link {
     display: flex;
@@ -88,6 +88,8 @@ $nav-color:          $bv-red;
     padding-left: $s4;
     padding-right: $s4;
     font-family: $font-core;
+    border-top-left-radius: $s0;
+    border-top-right-radius: $s0;
     font-weight: 700;
     font-size: 11px;
     letter-spacing: .2em;

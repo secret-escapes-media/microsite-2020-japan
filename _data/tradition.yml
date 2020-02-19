@@ -3,26 +3,26 @@
   title: Kyoto
   page: tradition
   row: "row--xl-4-4-4 row--lg-6-6"
-  description: "Mit Leichtigkeit verbindet Tokio Tradition mit Moderne. Götterkult und Kaiserliebe sind hier kein Widerspruch. Sie sollten sich Zeit nehmen, um einige antike Schätze zu besichtigen. Auf den Kaiser werden Sie wahrscheinlich keinen Blick erhaschen können, aber es lohnt sich ein Spaziergang im Park des&nbsp;Palastes."
+  description: "Mit Leichtigkeit verbindet Tokyo Tradition mit Moderne. Götterkult und Kaiserliebe sind hier kein Widerspruch. Sie sollten sich Zeit nehmen, um einige antike Schätze zu besichtigen. Auf den Kaiser werden Sie wahrscheinlich keinen Blick erhaschen können, aber es lohnt sich ein Spaziergang im Park des&nbsp;Palastes."
 
   pois:
 
     title:
     items:
 
-      - title: Geishas
+      - title: Tempel & Schreine
         id: one-1
         caption: 	©SHIZUOKA Convention & Visitors Bureau/© JNTO
-        content: "Umrahmt von den schönsten Gärten Tokios liegt der Kaiserpalast. Zuvor der Sitz der Tokugawa-Shogune und nach der Meiji-Restauration 1868 Sitz des Kaisers, so wurde Tokio zur Hauptstadt. Nur zwei Tage im Jahr öffnet er seine Pforte für die Öffentlichkeit. Die Japaner verehren ihren Kaiser, doch ein strenges Hofprotokoll verbietet einen direkten Kontakt zum Volk."
+        content: "Tempelhauptstadt: fast 2.000 der religiösen Stätten füllen Kyoto. Darunter ist der Fushimi Inari-Schrein der bekannteste und der Haupt&shy;schrein von Tausenden Inari-Schreinen, ein gefühlt endloser Weg aus Hunderten oranger Torii.  Auch Japans Wahrzeichen, der Kinkakuji-Tempel ist in Kyoto zu finden. Seine oberen Stockwerke sind mit Blattgold überzogen, wenn er sich im umliegenden See spiegelt, tut der Eindruck sein Übriges. Für Panorama&shy;blicke über Kyoto ist der beliebte Kiyomizu-Tempel die erste Adresse."
 
-      - title: Tempel& Schreins
+      - title: Historische Wanderwege
         id: one-2
-        content: "Eine beliebte Sehenswürdigkeit in Tokio ist der Tempel Senso-Ji im Stadtteil Asakusa. Bereits 645 erbaut, zählt die buddhistische Kulturstätte zu den schönsten und ältesten der Stadt. Der Legende nach fanden zwei Brüder eine Statue im Fluss und errichteten eigens diese Weihestätte. 30 Millionen Besucher bitten hier jährlich um irdisches Glück."
+        content: "Dabei müssen Sie auf Ihren Spaziergängen nicht unbedingt Schreine aufsuchen. Gerade zur Kirsch&shy;blüten&shy;zeit ist der Philosophen&shy;weg das Richtige, um die Augen und den Geist schweifen zu lassen. Der Natur&shy;park Kasagiyama verbindet land&shy;schaft&shy;liche Blüte und Geschichte, auf seinem Berg&shy;gipfel können Sie in den Fels gemeißelte buddhistische Statuen bewundern. Große Anziehung übt der Sagano Bambuswald in Arashiyama aus. Dabei lässt sich die Chance nutzen, im Ryokan, das bis zum 12 Jahr&shy;hundert als Landhaus für Adlige diente, zu übernachten."
 
       - title: Traditionelle Häuser
         id: one-3
         caption: © JNTO
-        content: "Inmitten des Ueno Parks liegt die buddhistische Tempelanlage Kiyomizu Kannon-do. Mit tiefroter Zinnoberfassade, ohne Nägel oder Schrauben errichtet, sollten Sie sich den einzigartig gewachsenen Kiefernzweig ansehen – die sogenannte Mondkiefer. Seit der Edo-Zeit gewachsen und in den Holzschnitten - Einhundert Ansichten von Edo - zu sehen."
+        content: "Prägend für Kyotos Stadtbild sind die zwei&shy;geschossigen Machiya-Stadthäuser. Die höl&shy;zernen Häuser haben zumeist einen Garten und charak&shy;teris&shy;tisch japanisches Interieur mit Tatami-Matten. Teil&shy;weise ist es möglich in einem der Machiya, die das ehemalige Unter&shy;haltungs&shy;viertel Gion säumen, einen Aufenthalt zu buchen. Wenn Sie dazu Glück haben, erhaschen Sie ebendort einen Blick auf eine der Geishas, deren Ursprung in Kyoto zu finden ist."
 
 
 
@@ -30,29 +30,25 @@
 
 
 - id: two
-  title: Geheimtipp Kiso-Tal
+  title: Kiso-Tal
   page: tradition
-  row: "row--xl-4-4-4 row--lg-6-6"
-  description: "Selbst Modemuffel kommen hier ins Staunen: Ausgefallene Kreationen und farbenfrohe Looks treffen auf traditionelle Kimono-Garderobe. Nirgendwo sonst können sich die Menschen so persönlich mit Ihrer Kleidung präsentieren. Tokio ist die einfallsreichste und außergewöhnlichste Modemetropole der Welt."
+  row: "row--xl-6-6"
+  description: "Mit dem Zug problemlos von Tokyo aus zu erreichen, dazu landschaft&shy;lich und historisch überaus wertvoll  ist das Kiso-Tal. Wandeln Sie im länd&shy;lichen Rahmen auf den Spuren des alten Japans."
 
   pois:
 
     title:
     items:
 
-
-      - title: Japanische Geschichte
+      - title: Handelsweg Nakasendo
         id: two-1
         caption: © JNTO
-        content: "Die elegante Einkaufsmeile in dem Stadtbezirk Ginza präsentiert Kunst und Kultur zugleich. Neben luxuriösen Boutiquen und Shops, befindet sich hier das Teikoku Gekijyou (kaiserliche Theater) und das Kabukiza (Japanische Theater) sowie zahlreiche Kunstgalerien und erstklassige Restaurants."
-
-      - title: Kiso Vulkan
-        id: two-2
-        content: "Zum Staunen: Bunte Süßigkeitenshops mit riesiger rosa Zuckerwatte und süßen Crêpes, flippige Mode-Boutiquen, niedliche Plüschtiere sowie haushohe Videoleinwände zum Zuwinken heißen Sie hier Willkommen."
+        content: "Der historische Handels&shy;weg zwischen Kyoto und Edo, dem heutigen Tokyo, führt Sie Schritt für Schritt in die alte Zeit des Shogunats, als die Straße vom Anfang des 17. Jahr&shy;hunderts bis zum Ende des 19. Jahr&shy;hunderts eine wichtige Ver&shy;kehrs&shy;ader war. Insgesamt über 500 Kilometer lang, führen 70 davon durch das malerische Kiso-Tal, wo Insgesamt 11 Post&shy;städte den Weg säumen, errichtet, damit die Reisenden auf ihrer beschwerlichen Fußreise Unter&shy;haltung und Unterkunft finden konnten. Stein&shy;pfade und höl&shy;zerne Häuser künden von vergangenen Zeiten und viele der Städtchen sind sehr gut erhalten. "
 
       - title: Magome & Tsumago
-        id: two-3
-        content: "Zum Staunen: Bunte Süßigkeitenshops mit riesiger rosa Zuckerwatte und süßen Crêpes, flippige Mode-Boutiquen, niedliche Plüschtiere sowie haushohe Videoleinwände zum Zuwinken heißen Sie hier Willkommen."
+        id: two-2
+        content: "Magome und Tsumago: die wohl&shy;kingenden Dörfer und die Strecke, die beide verbindet sind bestens erhalten. Eine recht steile Straße führt durch das pittoreske Magome, das mit seiner Mühle und den japanischen Fachwerk&shy;häusern Abbild einer heilen Welt ist. Etwas 8 Kilometer weiter wartet mit Tsumago seine Schwester&shy;stadt, etwas rustikaler, aber gleich liebens&shy;würdig. Autos dürfen die Haupt&shy;straße von Tsumago nicht entlang fahren und viele minshuku und ryokan (Gasthäuser) machen das Erlebnis einer Zeitreise noch eindrücklicher."
+
 
 
 
@@ -63,20 +59,20 @@
   title: Halbinsel Satsuma
   page: tradition
   row: "row--xl-6-6"
-  description: "Zwischen Tokios Skyline und den Wahrzeichen der Mega-City finden Sie Ruheoasen gefüllt mit historischen Heiligtümern und Tempeln. Gehen Sie auf Entdeckungstour, es lohnt sich diese Parks zu durchstreifen und ab und an dem Straßentrubel zu entfliehen."
+  description: "Zwischen Tokyos Skyline und den Wahr&shy;zeichen der Mega-City finden Sie Ruhe&shy;oasen gefüllt mit historischen Heiligtümern und Tempeln. Gehen Sie auf Entdeckungs&shy;tour, es lohnt sich diese Parks zu durchstreifen und ab und an dem Straßen&shy;trubel zu entfliehen."
 
   pois:
 
     title:
     items:
 
-      - title: Samurai Viertel
+      - title: Samurai-Viertel
         id: three-1
-        content: "Zentral gelegen und bekannt für seine Kirschblüten im Frühjahr, ein Besuch im Ueno Park lohnt zu jeder Jahreszeit. Es locken die größten Museen der Stadt und zahlreiche Statuen und Heiligtümer, aber vor allem sind es auch die niedlichen Pandas des ersten und größten Zoos Tokios, die in Erinnerung bleiben werden."
+        content: "Die edlen Samurai waren im vormodernen Japan die Elite-Krieger. Geehrt und gefürchtet lebten die Schwert&shy;kämpfer nach den Bushido-Regeln und zeichneten sich durch Loyalität und Selbst&shy;disziplin aus. Da sie an der Spitze der damaligen Gesell&shy;schafts&shy;struktur standen, hatten die Samurai das Privileg, in eigenen Vierteln zu wohnen. In der Klein&shy;stadt Chiran auf der Halbinsel Satsuma kann man noch heute in einem solchen Samurai-Viertel Häuser und Gärten besichtigen, die über 250 Jahre alt sind."
 
       - title: Historische Gärten
         id: three-2
-        content: "Unweit des höchsten Funkturms der Welt, des Sky-Trees, erstreckt sich der Sumida Park und der gleichnamige Fluss. Mit einer Bootsfahrt lässt sich hier die Gegend entspannt bewundern. Sumidagawa Hanabi Taikai, das Feuerwerksspektakel Ende Juli, lässt sich bestens von der Kototoibashi-Brücke betrachten."
+        content: "Zwar darf man als Besucher die genannten Samurai-Gebäude leider nicht betreten, dafür sind sieben der Gärten für ein recht kleines Entgelt frei zugänglich. Alle sind relativ klein gehalten und fünf davon sind trockene Kareansui-Gärten (wie der berühmte Ryoan-ji) . Die Sonderform basiert in ihrem Minima&shy;lismus auf wenigen Elementen. Steine, Kiesel und Sand sind die Haupt&shy;bestandteile solcher Gärten, die der Meditation förderlich sein sollen."
 
 
 

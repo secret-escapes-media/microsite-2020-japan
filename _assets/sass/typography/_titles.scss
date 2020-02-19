@@ -4,8 +4,8 @@
 
   // custom content headline
   font-family: $font-title-01;
-  line-height: 1.1;
-  &--xxxxl   { font-size: $s9; }
+  line-height: 1.2;
+  &--xxxxl   { font-size: $s8; }
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -34,11 +34,11 @@
 
   // custom content headline
   font-family: $font-title-01;
-  font-size: $s2; // default size
+  font-size: $s3; // default size
   &--lg     { font-size: $s4; }
   &--sm     { font-size: $s0; }
   @include bp($lg){
-    font-size: $s3; // default size
+    font-size: $s5; // default size
     &--lg     { font-size: $s5; }
     &--sm     { font-size: $s1; }
   }
@@ -81,7 +81,7 @@
 
   // custom banner headline
   font-family:  $serif;
-  //text-transform: uppercase;
+  line-height: 1.15;
   font-size: $s5;
 
     &--xxl   { font-size: $s9; }
@@ -90,13 +90,13 @@
     //letter-spacing: .1rem;
     font-size: $s8;
 
-      &--xxl   { font-size: $s11; }
+      &--xxl   { font-size: $s10; }
   }
   @include bp($md){
     //letter-spacing: .1rem;
     font-size: $s9;
 
-      &--xxl   { font-size: $s12; }
+      &--xxl   { font-size: $s11; }
   }
   @include bp($lg){
     font-size: $s11;
@@ -108,10 +108,6 @@
 
       &--xxl   { font-size: $s13; }
   }
-  @include bp($xxxl){
-    font-size: $s12;
 
-      &--xxl   { font-size: $s14; }
-  }
 
 }

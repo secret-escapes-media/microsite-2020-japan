@@ -9,7 +9,11 @@
 
     {% include page/header.html %}
 
+    {% if page.id == 'overview'  %}
+    {% include page/banner-video.html %}
+    {% else %}
     {% include page/banner.html %}
+    {% endif %}
 
     <div class="content-spacing section-spacing">
       {{ content }}
@@ -17,7 +21,6 @@
 
     {% include page/footer.html %}
 
-    {% include modal/modal-video.html %}
 
     <script src="{{site.js}}/main.js"></script>
 

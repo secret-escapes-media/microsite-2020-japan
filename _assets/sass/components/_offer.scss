@@ -63,6 +63,32 @@ $offer-max-width: 600px;
       background-size: contain;
     }
   }
+  &__location-black {
+    margin-top: .9em;
+    margin-left: 1.5em;
+    margin-bottom: 1.15em;
+    text-indent: -1.5em;
+    font-size: 0.75em;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    color: $grey;
+    &:before {
+      content: "";
+      display: inline-block;
+      height: 1.5em;
+      width: 1.05em;
+      margin-right: .5em;
+      margin-bottom: .2em;
+      vertical-align: middle;
+      background-image: url( "../img/icons/map-pin-black.svg" );
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-size: contain;
+    }
+  }
   &__bottom {
     display: flex;
     align-items: center;

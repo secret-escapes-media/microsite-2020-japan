@@ -1,5 +1,21 @@
 // general styles for the project that wouldn't be a reuseable component
+/* ==========================================================================
+   Video
+========================================================================== */
 
+.bv-video {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  @include bp($lg){
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    opacity: .9;
+  }
+}
 
 /* ==========================================================================
    Text-Styles
@@ -14,22 +30,25 @@
  }
 
  .bv-divider::after {
-   content: '.';
-   //display: block;
-   line-height: 0;
-   color: $bv-red;
-   //font-size: 50px;
-   letter-spacing: -1px;
-   //margin: 2px 0 25px -2px;
+  background-image: url('../img/icons/circle.svg');
+  display: inline-block;
+  content: ' ';
+  background-size: 28px 30px;
+  margin-left: -4px;
+  background-repeat: no-repeat;
+  transform: scale(1.2);
+  height: 40px;
+  width: 28px;
 
    @include bp($lg){
-     content: ' .';
-     //display: block;
-     color: $bv-red;
-     //font-size: 65px;
-     line-height: 0;
-     letter-spacing: -1px;
-     //margin: 4px 0 36px -2px;
+    background-image: url('../img/icons/circle.svg');
+    display: inline-block;
+    content: ' ';
+    background-size: 32px 30px;
+    background-repeat: no-repeat;
+    transform: scale(1.7);
+    height: 60px;
+    width: 28px;
    }
  }
 
@@ -44,27 +63,40 @@
   padding-right: $s2;
 
 @include bp($md) {
-  padding-left: $s4!important;
-  padding-right: $s4;
+  padding-left: $s3!important;
+  padding-right: $s3;
+
+  &--sm {
+    padding-left: $s-1!important;
+    padding-right: $s-1;}
 }
 
 @include bp($lg) {
+  padding-left: $s2!important;
+  padding-right: $s2;
+}
+
+@include bp($xl) {
   padding-left: $s3!important;
   padding-right: $s3;
 }
 
-@include bp($xl) {
-padding-left: $s4!important;
-padding-right: $s4;
-}
-
 @include bp($xxl) {
-  padding-left: $s5!important;
-  padding-right: $s5;
+  padding-left: $s2!important;
+  padding-right: $s2;
 
   &--sm {
-    padding-left: $s1!important;
-    padding-right: $s1;}
+    padding-left: $s0!important;
+    padding-right: $s0;}
+}
+
+@include bp($xxxl) {
+  padding-left: $s2!important;
+  padding-right: $s2;
+
+  &--sm {
+    padding-left: $s0!important;
+    padding-right: $s0;}
 }
 
 }

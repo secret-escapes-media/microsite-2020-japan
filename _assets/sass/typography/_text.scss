@@ -2,10 +2,10 @@
 
 .text {
   // sizes
-  &--xxl { font-size: 1.2rem; line-height: 1.6; letter-spacing: 0; }
-  &--xl  { font-size: 1.1rem; line-height: 1.6; letter-spacing: 0; }
+  &--xxl { font-size: 1.4rem; line-height: 1.6; letter-spacing: 0; }
+  &--xl  { font-size: 1.2rem; line-height: 1.6; letter-spacing: 0; }
   &--lg  { font-size: 1.05rem; letter-spacing: 0; }
-  &--sm  { font-size: .8rem; }
+  &--sm  { font-size: .9rem; }
 
   // styles
   &--italic       { font-style: italic; }
@@ -21,6 +21,7 @@
   &--white { color: $grey-lightest; }
   &--black { color: $grey-dark; }
   &--red { color: $bv-red; }
+  &--orange { color: $orange; }
 
   // alignment
   &--left   { text-align: left; }

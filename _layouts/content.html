@@ -27,14 +27,13 @@ layout: default
             <h3 class="title title--xxxxl text--upper text--white text--bolder bv-divider">{{section.title}}</h3>
           </div>
     </div>
-    <div class="bg--red-transp" style="background-image:url({{site.img}}/content/{{page.id}}/{{section.id}}.jpg)--; background-repeat:no-repeat; background-size:cover; background-position:top center; ">
-      <div class="container vpad--lg text--white">
-          <div class="row row--center row--xl-6-6">
-              <div class="col text--center text text--lg">
-                <div class="text text--lg">{{section.description}}</div>
-              </div>
-          </div>
+    <div class="bg--red-transp">
+      <div class="container text--white">
+        <div class=" width width--lg vpad--lg text--center text--xxl bv-mob-left">
+          {{section.description}}
         </div>
+      </div>
+      <div class="space--xs"></div>
     </div>
 </div>
 
@@ -43,17 +42,18 @@ layout: default
 <div class="bg--light">
   <div class="container vpad--md">
     <div class="space--sm"></div>
-      <div class="row {{section.row}} row--no-gutters bg--white bv-boxpad bv-box-shadow bv-border-bottom">
+      <div class="row {{section.row}} row--no-gutters bg--white bv-boxpad bv-box-shadow bv-border-bottom-" style="border-radius:20px;">
 
       {% for poi in section.pois.items %}
           <div class="col bv-hpad--sm">
             <div class="space--sm"></div>
-            <div class="bg-img bg--white bg-img--4-3" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{poi.id}}.jpg);">
-              <div class="text text--sm text--white text--light bv-copyright" >{{poi.caption}}</div>
+            <div class="bg-img bg--white bg-img--lg-4-3 bg-img--16-9" style="background-image:url({{site.img}}/content/{{page.id}}/photos/{{poi.id}}.jpg);">
+            <!--  <div class="text text--sm text--white text--light bv-copyright" >{{poi.caption}}</div> -->
             </div>
             <div class="space--md"></div>
             <h5 class="title title--xs text--bold">{{poi.title}}</h5>
-            <p>{{poi.content}}</p>
+            <div class="space--sm"></div>
+            <div class="text--justify text text--lg">{{poi.content}}</div>
             <div class="space--lg"></div>
           </div>
 

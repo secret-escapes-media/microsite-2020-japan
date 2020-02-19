@@ -3,7 +3,7 @@
   title: Shopping Vielfalt
   page: tokio
   row: "row--xl-4-4-4 row--lg-6-6"
-  description: "Mit etwas Recherche und dem nötigen Kleingeld erfüllt Tokio jeden Shoppingwunsch. Egal, ob Sie ein traditonelles Souvenir, die gewagteste Fashion oder Vintage-Shops suchen, hier findet sich meist alles nah beieindander. An die Taschen, fertig, los! "
+  description: "Mit etwas Recherche und dem nötigen Kleingeld erfüllt Tokyo jeden Shoppingwunsch. Egal, ob Sie ein traditonelles Souvenir, die gewagteste Fashion oder Vintage-Shops suchen, hier findet sich meist alles nah beieindander. An die Taschen, fertig, los! "
 
   pois:
 
@@ -11,18 +11,18 @@
     items:
 
       - title: Ginza
-        id: two-1
+        id: one-1
         caption: © JNTO
-        content: "Im Schachbrettmuster der eleganten Straßen nach westlichem Vorbild mischen sich Kaufhäuser mit modernen Gebäuden und Boutiquen. Das neu eröffnete Ginza Six Einkaufszentrum lädt dazu ein, auf der Dachterasse auf Ihr Shoppingerlebnis anzustoßen und wie ganz nebenbei die Aussicht auf Ginza zu genießen. Doch auch Ginzas Kunstszene lässt sich sehen. Das Theaterhaus Kabukiza bietet das ganze Jahr traditionelle Kabuki-Aufführungen. Wer es moderner mag, kann sich auf die Galerie im Flagship-Store des MCM freuen oder sich für zeitgenössische Kunst zur Shiseido-Galerie begeben. "
+        content: "Im Schachbrettmuster der eleganten Straßen nach westlichem Vorbild mischen sich Kauf&shy;häuser mit modernen Gebäuden und Boutiquen. Das neu eröffnete Ginza Six Einkaufs&shy;zentrum lädt dazu ein, auf der Dach&shy;terasse auf Ihr Shopping&shy;erlebnis anzustoßen und wie ganz nebenbei die Aussicht auf Ginza zu genießen. Doch auch Ginzas Kunst&shy;szene lässt sich sehen. Das Theater&shy;haus Kabukiza bietet das ganze Jahr traditio&shy;nelle Kabuki-Aufführungen. Wer es moderner mag, kann sich auf die Galerie im Flagship-Store des MCM freuen oder sich für zeitgenössische Kunst zur Shiseido-Galerie begeben. "
 
       - title: Shibuya
-        id: two-2
+        id: one-2
         caption: © JNTO
-        content: "Die Shibuya-Kreuzung ist einer der bekanntesten Plätze in Tokio. Alle zwei Minuten kreuzen sich hier geschätzte 1.000 bis 2.000 Menschen – wenige Orte fühlen sich so sehr wie eine Megapolis an. Vor allen sind es aber Shibuyas kleinere Straßen, die das Shoppingherz höher schlagen lassen, wie die Orchard Road, wo sich kleine Geschäfte an Restaurants und Cafés reihen. Um sich für Ihre persönliche Teezeremonie auszustatten, schauen Sie im 'GEN GEN An by En Tea' vorbei. Der Teeladen im Retro-Look ist zugleich Lokal und serviert am Wochenende Cocktails mit Tee und Sake – unbedingt probieren!"
+        content: "Die Shibuya-Kreuzung ist einer der bekanntesten Plätze in Tokyo. Alle zwei Minuten kreuzen sich hier geschätzte 1.000 bis 2.000 Menschen – wenige Orte fühlen sich so sehr wie eine Megapolis an. Vor allen sind es aber Shibuyas kleinere Straßen, die das Shopping&shy;herz höher schlagen lassen, wie die Orchard Road, wo sich kleine Geschäfte an Restaurants und Cafés reihen. Um sich für Ihre persönliche Tee&shy;zeremonie auszustatten, schauen Sie im 'GEN GEN An by En Tea' vorbei. Der Teeladen im Retro-Look ist zugleich Lokal und serviert am Wochenende Cocktails mit Tee und Sake – unbedingt probieren!"
 
       - title: Omotesando & Harajuku
-        id: two-3
-        content: "Zwar grenzt Omotesando an Harajuku, ist aber in seiner Ästhetik weit von der jugendlichen Gegend entfernt. Hier liegt der Fokus auf zeitlosem Stil für den anspruchsvollen Käufer. Im Gegensatz zu Ginza finden Sie in Omotesando eher neuere Modenamen wie Maison Margiela. Nicht zu verpassen auch die lokale Institution RAGTAG, wo Stücke von Comme des Garcons sich mit japanischen Design-Marken den Raum teilen. Für kleine Atem- und Kaffeepausen eignet sich die Cat Street, die tatsächliche Grenze der beiden Stadtteile. Was beide Viertel aber eint ist ihre Liebe zur Kunst."
+        id: one-3
+        content: "Zwar grenzt Omotesando an Harajuku, ist aber in seiner Ästhetik weit von der jugendlichen Gegend entfernt. Hier liegt der Fokus auf zeit&shy;losem Stil für den anspruchsvollen Käufer. Im Gegen&shy;satz zu Ginza finden Sie in Omotesando eher neuere Modenamen wie Maison Margiela. Nicht zu verpassen auch die lokale Institution RAGTAG, wo Stücke von Comme des Garcons sich mit japa&shy;nischen Design-Marken den Raum teilen. Für kleine Atem- und Kaffee&shy;pausen eignet sich die Cat Street, die tatsäch&shy;liche Grenze der beiden Stadtteile. Was beide Viertel aber eint ist ihre Liebe zur Kunst."
 
 
 ################################################################################
@@ -32,7 +32,7 @@
   title: Märkte & Museen
   page: tokio
   row: "row--xl-4-4-4 row--lg-6-6"
-  description: "Im Land der Düfte und Geschmäcker oder im Reich der uferlosen Kunst: ein Markt und zwei Museen, die Pflichtbesuche sind."
+  description: "Im Land der Düfte und Geschmäcker oder im Reich der uferlosen Kunst: ein Markt und zwei Museen, die Pflicht&shy;besuche sind."
 
   pois:
 
@@ -42,16 +42,16 @@
       - title: Tsukiji Markt
         id: two-1
         caption: © JNTO
-        content: "Einstmals war Tsukiji der größte Fischmarkt der Welt auf dem täglich tonnenweise frischer Thunfisch gehandelt wurde. Seitdem der Großmarkt zum Toyosu-Markt weiterzog, ist Tsukiji ein Außenmarkt, wo frische Lebensmittel und Kochgeräte zu erstehen sind. Die Streetfood-Stände und Restaurants blieben erhalten. Gönnen Sie sich gutes Sushi bei ‘sushi mukai’ oder 'Ginza Onodera' oder probieren Sie Spezialitäten wie japanisches Curry, Gyu-don-Eintropf, Wagyu-Rind. Aber auch Fisch für den Normalverbraucher springt im Tsukiji einem in hundert Formen entgegen."
+        content: "Einstmals war Tsukiji der größte Fischmarkt der Welt auf dem täglich tonnen&shy;weise frischer Thun&shy;fisch gehandelt wurde. Seitdem der Großmarkt zum Toyosu-Markt weiterzog, ist Tsukiji ein Außen&shy;markt, wo frische Lebens&shy;mittel und Kochgeräte zu erstehen sind. Die Street&shy;food-Stände und Restaurants blieben erhalten. Gönnen Sie sich gutes Sushi bei ‘sushi mukai’ oder 'Ginza Onodera' oder probieren Sie Spezia&shy;litäten wie japanisches Curry, Gyu-don-Eintropf, Wagyu-Rind. Aber auch Fisch für den Normal&shy;verbraucher springt im Tsukiji einem in hundert Formen entgegen."
 
-      - title: "Immersive Kunst: teamLab Borderless"
+      - title: "Immersive Kunst: teamLab&nbsp;Borderless"
         id: two-2
         caption: © JNTO
-        content: "Das Kunstwerk im Zeitalter seiner digitalen Reproduzierbarkeit: unter diesem Motto, frei an Benjamin angelehnt, könnte das DIGITAL ART MUSEUM teamLab Borderless stehen. In der Dauerausstellung können seit 2018 Lichtinstallationen des Künstlerkollektivs teamLab in ihrer Interaktion mit Körper und Raum unmittelbar erlebt werden. Die Projektionen und Lichtkunstwerke ändern sich in Wechselwirkung mit den Besuchern und lösen die starre Grenze zwischen Werk und Betrachter auf. Austoben im ‘Athletics Forest’ oder im ‘Forest of Lamps’ in die Ewigkeit eingehen, das ist Kunst von morgen."
+        content: "Das Kunstwerk im Zeitalter seiner digitalen Reproduzier&shy;barkeit: unter diesem Motto, frei an Benjamin angelehnt, könnte das DIGITAL ART MUSEUM teamLab Borderless stehen. In der Dauer&shy;ausstellung können seit 2018 Licht&shy;installa&shy;tionen des Künstler&shy;kollektivs teamLab in ihrer Interaktion mit Körper und Raum unmittelbar erlebt werden. Die Projek&shy;tionen und Licht&shy;kunst&shy;werke ändern sich in Wechselwirkung mit den Besuchern und lösen die starre Grenze zwischen Werk und Betrachter auf. Austoben im ‘Athletics Forest’ oder im ‘Forest of Lamps’ in die Ewigkeit eingehen, das ist Kunst von morgen."
 
       - title: Nationales Kunstzentrum
         id: two-3
-        content: "Adieu Kanon! Wer im Nationalen Kunstmuseum Tokios Kunst aus allen Epochen sehen will, findet sich in einer ‘leeren Galerie’ wieder. Im Detail heißt es, dass die Galerie keine Dauerausstellung und keine Kuratoren besitzt, stattdessen füllen wechselnde Ausstellungen, Events und Workshops die Räume der drei Etagen. Nicht nur der Führungsstil des Museums hebt den Wandel und die Unbeständigkeit der Kunst hervor. Auch architektonisch ist das Museumsgebäude, das der Metabolismus-Bewegung zugerechnet wird, ein Sinnbild von Wandel: Glas- und Stahlwellen."
+        content: "Adieu Kanon! Wer im Nationalen Kunst&shy;museum Tokyos Kunst aus allen Epochen sehen will, findet sich in einer ‘leeren Galerie’ wieder. Im Detail heißt es, dass die Galerie keine Dauer&shy;ausstellung und keine Kuratoren besitzt, stattdessen füllen wechselnde Aus&shy;stellungen, Events und Work&shy;shops die Räume der drei Etagen. Nicht nur der Führungsstil des Museums hebt den Wandel und die Unbeständig&shy;keit der Kunst hervor. Auch architek&shy;tonisch ist das Museums&shy;gebäude, das der Metabo&shy;lismus-Bewegung zugerechnet wird, ein Sinn&shy;bild von Wandel: Glas- und Stahlwellen."
 
 
 
@@ -59,7 +59,7 @@
 
 
 - id: three
-  title: Tempel und Kaiserpalast
+  title: Tempel & Kaiser&shy;palast
   page: tokio
   row: "row--xl-4-4-4 row--lg-6-6"
   description: "Ehrfürchtig und religiös verheren die Japaner in gleichem Zuge ihren Kaiser und ihre Gottheiten. Stätten wie der Palast oder Tempel und Schreine führen dabei das Profane und das Erhabene zusammen."
@@ -70,18 +70,18 @@
     items:
 
       - title: Kaiserpalast
-        id: one-1
+        id: three-1
         caption: 	©SHIZUOKA Convention & Visitors Bureau/© JNTO
-        content: "Unter uns und unerreichbar: so wie der Kaiser, so auch sein Palast. Da ein strenges Hofprotokoll einen direkten Kontakt zwischen Volk und Kaiser verbietet, sind nur bestimmte Gebäude und Bereiche des Palastes für die Öffentlichkeit zugänglich, darunter drei der Gärten. Zuvor Sitz der Tokugawa-Shogune wurde der Palast im Zuge der Meiji-Restauration 1868 zur Residenz des Kaisers – und Tokio zugleich zur Hauptstadt. Tipp: Wenn Sie den Festungsgraben von Chidorigafuchi besichtigen möchten, dann ist die Kirschblütenzeit die ästhetisch beste dafür."
+        content: "Unter uns und unerreichbar: so wie der Kaiser, so auch sein Palast. Da ein strenges Hofprotokoll einen direkten Kontakt zwischen Volk und Kaiser verbietet, sind nur bestimmte Gebäude und Bereiche des Palastes für die Öffent&shy;lich&shy;keit zugänglich, darunter drei der Gärten. Zuvor Sitz der Tokugawa-Shogune wurde der Palast im Zuge der Meiji-Restauration 1868 zur Residenz des Kaisers – und Tokyo zugleich zur Haupt&shy;stadt. Tipp: Wenn Sie den Festungs&shy;graben von Chidorigafuchi besichtigen möchten, dann ist die Kirsch&shy;blüten&shy;zeit die ästhetisch beste dafür."
 
       - title: Senso-Ji Tempel
-        id: one-2
-        content: "Der Tempel Senso-Ji im Stadtteil Asakusa ist einer der beliebtesten Tempel Tokios und ein beliebtes Fotomotiv. Im Jahre 628 gegründet, gilt die buddhistische Stätte zu als ältester Tempel der Stadt. Hier fanden der Legende nach zwei Fischer eine goldene Statue im Fluss und gelobten ihr zu Ehren eine Weihestätte zu errichten. Vom äußeren Eingang, dem Donnertor führt die Shoppingmeile Nakamise mit Souvenirs und Snacks zum zweiten Tor des Tempels. Um etwas Besonderes zu erleben, kommen Sie Mitte Mai zum Schreinfest Sanja Matsuri, das bis zu 2 Millionen Japaner anzieht."
+        id: three-2
+        content: "Der Tempel Senso-Ji im Stadtteil Asakusa ist einer der belieb&shy;testen Tempel Tokyos und ein beliebtes Fotomotiv. Im Jahre 628 gegründet, gilt die buddhis&shy;tische Stätte zu als ältester Tempel der Stadt. Hier fanden der Legende nach zwei Fischer eine goldene Statue im Fluss und gelobten ihr zu Ehren eine Weihe&shy;stätte zu errichten. Vom äußeren Eingang, dem Donnertor führt die Shopping&shy;meile Nakamise mit Souvenirs und Snacks zum zweiten Tor des Tempels. Um etwas Besonderes zu erleben, kommen Sie Mitte Mai zum Schreinfest Sanja Matsuri, das bis zu 2 Millionen Japaner anzieht."
 
       - title: Meiji-Schrein
-        id: one-4
+        id: three-3
         caption: © JNTO
-        content: "Kaiser Meiji und seiner Gemahlin Shoken gewidmet, feiert der Schrein dieses Jahr bereits sein 100-jähriges Jubiläum. Das Areal des nationalen Heiligtums umfasst einen immergrünen Wald aus mehr als 100.000 Bäumen, die von Menschen aus allen Teilen Japans gespendet wurden. Als grüne Oase Tokios ist er perfekt für die Atem- und Ruhepause von der Großstadt – man vergisst fast, dass man sich direkt zwischen Shinjuku und Shibuya befindet. Außer an einem der Festtage, insbesondere in der Neujahrsnacht, wo die Japaner für Glück und Gesundheit beten."
+        content: "Kaiser Meiji und seiner Gemahlin Shoken gewidmet, feiert der Schrein dieses Jahr bereits sein 100-jähriges Jubiläum. Das Areal des nationalen Heilig&shy;tums umfasst einen immer&shy;grünen Wald aus mehr als 100.000 Bäumen, die von Menschen aus allen Teilen Japans gespendet wurden. Als grüne Oase Tokyos ist er perfekt für die Atem- und Ruhe&shy;pause von der Großstadt – man vergisst fast, dass man sich direkt zwischen Shinjuku und Shibuya befindet. Außer an einem der Festtage, insbesondere in der Neujahrs&shy;nacht, wo die Japaner für Glück und Gesundheit beten."
 
 
 
@@ -93,7 +93,7 @@
   title: Mount Fuji
   page: tokio
   row: "row--xl-4-4-4 row--lg-6-6"
-  description: "Mount Fuji, der höchste Berg Japans wird von den Einheimischen verehrt und ist fester Bestandteil der bildenden Kunst. 2013 wurde er zum Weltkulturerbe ernannt. Gut erreichbar ist der Fuji zu jeder Jahreszeit eine Reise wert."
+  description: "Mount Fuji, der höchste Berg Japans wird von den Einheimischen verehrt und ist fester Bestand&shy;teil der bildenden Kunst. 2013 wurde er zum Welt&shy;kultur&shy;erbe ernannt. Gut erreichbar ist der Fuji zu jeder Jahreszeit eine Reise wert."
 
   pois:
 
@@ -102,15 +102,15 @@
 
       - title: Tagesausflüge
         id: four-1
-        content: "Durch seine nahezu perfekte Form sieht der Fuji wie gemalt aus und bietet mit heißen Quellen und seinen fünf Seen in der Hakone-Region beste Bedingungen für eine Stadtflucht aus Tokio. Wenn Sie nur eine Quelle besuchen, dann sollten Sie den Hottarakashi Onsen erwägen. Tiefenentspannung im Wasser und einmalige Ausblicke auf den Berg sind die Belohnung. Wer doch über Nacht bleiben möchte und Camping liebt, findet in Hakone einige der besten Campingplätze Japans und einen klaren Sternenhimmel für romantische Nachtstunden."
+        content: "Durch seine nahezu perfekte Form sieht der Fuji wie gemalt aus und bietet mit heißen Quellen und seinen fünf Seen in der Hakone-Region beste Bedingungen für eine Stadt&shy;flucht aus Tokyo. Wenn Sie nur eine Quelle besuchen, dann sollten Sie den Hotta&shy;rakashi Onsen erwägen. Tiefen&shy;entspannung im Wasser und einmalige Aus&shy;blicke auf den Berg sind die Belohnung. Wer doch über Nacht bleiben möchte und Camping liebt, findet in Hakone einige der besten Camping&shy;plätze Japans und einen klaren Sternen&shy;himmel für roman&shy;tische Nachtstunden."
 
       - title: Auf zum Gipfel
         id: four-2
-        content: "Der heilige Vulkan mit seinem schneebedeckten Gipfel türmt sich auf mehr als 3.776 m über dem Meeresspiegel. Von Juli bis August sind die Wanderwege in verschiedenen Schwierigkeitsgraden geöffnet. Wer es wagen möchte, den Gipfel zu besteigen, kann eine 2-tägige Tour unternehmen. Nach einer Pause auf halber Strecke erreichen Sie die Spitze pünktlich zum Sonnenaufgang – ein wohl einmaliges Erlebnis! Bereiten Sie sich jedoch gut auf den Berg vor – warme Kleidung, mentale Disziplin und Vorsicht sind Ihre Helfer."
+        content: "Der heilige Vulkan mit seinem schnee&shy;bedeckten Gipfel türmt sich auf mehr als 3.776 m über dem Meeres&shy;spiegel. Von Juli bis August sind die Wander&shy;wege in verschiedenen Schwierig&shy;keits&shy;graden geöffnet. Wer es wagen möchte, den Gipfel zu besteigen, kann eine 2-tägige Tour unternehmen. Nach einer Pause auf halber Strecke erreichen Sie die Spitze pünkt&shy;lich zum Sonnen&shy;aufgang – ein wohl einmaliges Erlebnis! Bereiten Sie sich jedoch gut auf den Berg vor – warme Kleidung, mentale Disziplin und Vorsicht sind Ihre Helfer."
 
       - title: Das Tor zum heiligen Berg
         id: four-3
-        content: "Einst japanische Hauptstadt, ist Kamakura heute vor allem eine Stadt mit viel Historie. Die große Tempelanlage und der riesige Bronze-Buddha mit seinen 13,35 Meter und 121 Tonnen Gewicht sind ein beliebtes Fotomotiv. Die Tokianer fahren vor allem zum Baden und Surfen an den nahen Strand von Kamakura."
+        content: "Torii sind Teil der japanischen Architektur und werden als reale oder symbolische Eingangs&shy;tore zu Shinto-Schreinen eingesetzt. Sie bestehen aus zwei Pfeilern mit zwei waage&shy;rechten Balken und markieren die Grenze zwischen Heiligem und Profanem. Wie kann es anders sein, auch der Übergang zum Fuji-san geschieht unter der wachsamen und wei&shy;henden Präsenz eines torii. Halten Sie einen Moment vor dem Kanadorii-Tor inne, gehen Sie in sich und schreiten Sie gehobenen Mutes voran."
 
 
 

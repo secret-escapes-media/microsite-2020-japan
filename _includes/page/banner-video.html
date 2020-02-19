@@ -1,0 +1,23 @@
+<div class="banner">
+  <div class="banner__wrap">
+    <div class="container text--center text--white">
+      <div class="banner__title">
+        {% if page.banner.title-sup %}<h2 class="sub-title  sub-title--md sub-title text--upper">{{page.banner.title-sup}} </h2>{% endif %}
+        <h1 class="banner-title {{page.banner.title-size}}">{% if page.banner.title %}{{page.banner.title}}{% else %}{{page.title}}{% endif %}</h1>
+        <div class="space--lg"></div>
+        {% if page.banner.title-sub %}<h2 class="sub-title sub-title--md text--upper">{{page.banner.title-sub}}</h2>{% endif %}
+
+      </div>
+      <div class="space--md"></div>
+    </div>
+  </div>
+  <div class="banner__bg-video" style="background-image: url('{{site.img}}/content/{{page.id}}/hero.jpg'); opacity: .7; ">
+    <video controls poster="{{site.img}}/content/{{page.id}}/hero.jpg"  playsinline loop muted autoplay >
+    <source src="{{site.img}}/content/{{page.id}}/hero.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="banner__nav">
+    {% include nav/site.html %}
+  </div>
+  <div class="site-nav__offset"></div>
+</div>

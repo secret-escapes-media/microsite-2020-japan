@@ -55,51 +55,68 @@
 //************** kulinarik ************
 
 
+
+
 {
   type: 'Feature',
   geometry: {
     type: 'Point',
-    coordinates: [139.730359, 35.728682]
+    coordinates: [139.730359, 35.828682]
   },
   properties: {
     id: '1',
     cat: 'kulinarik',
     title: 'Nakiryu Ramen',
-    img: 'one',
-    link: '#',
-    description: ' ist das zweite Ramen Restaurant, das mit einem Stern ausgezeichnet wurde. Denkt man an ein Michelin Restaurant, hat man direkt ein schikes Ambiente vor Augen - bei Nakiryu dagegen ist ein simples Lokal mit zehn Plätzen. Von außen würde man es kaum erkennen aber die lange Schlange vor dem Restaurant lässt einen aufmerksam werden - also am besten früh da sein, denn man wartet gerne mal bis zu einer Stunde um das köstliche Ramen zu probieren. '
-  }
-},
-{
-  type: 'Feature',
-  geometry: {
-    type: 'Point',
-    coordinates: [135.777954, 35.005711]
-  },
-  properties: {
-    id: '2',
-    cat: 'kulinarik',
-    title: 'Teezeremonie',
-    img: 'two',
-    link: '#',
-    description: 'Matcha oder Sencha – Teegenuss wird in Japan seit über 1000 Jahren durch feste Regeln bestimmt.'
+    img: 'kulinarik/photos/one-1',
+    link: 'kulinarik/#one',
+    description: 'Kommen Sie rechtzeitig, um dieses Ramen, das von Michelin ausgezeichnet wurde, zu kosten.'
   }
 },
 {
     type: 'Feature',
     geometry: {
       type: 'Point',
-      coordinates: [135.94578, 35.101767]
+      coordinates: [139.762599, 35.672356]
+    },
+    properties: {
+      id: '2',
+      cat: 'kulinarik',
+      title: 'Sushi',
+      img: 'kulinarik/photos/one-2',
+      link: 'kulinarik#one',
+      description: 'Sushi am laufenden Band: dieser Klassiker aus Hokkaido ist den Besuch wert. '
+    }
+  },
+{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [135.774578, 35.001767]
     },
     properties: {
       id: '3',
       cat: 'kulinarik',
-      title: 'Sushi Saito',
-      img: 'three',
-      link: '#',
-      description: 'Wenn man in Tokio nicht nur leckeres aber auch preisgünstiges Sushi essen möchte, ist man bei Kaiten Sushi genau richtig. Hier gibts es Sushi am laufenden Band und das auf einem Top-Niveau. Das schöne ist also, dass man schauen kann was einen besonderes anspricht. Das Restaurant kommt ursprünglich aus Hokkaido, dort gibt es nämlich bekanntlich den besten und frischesten Fisch. '
+      title: 'Kaiseki',
+      img: 'kulinarik/photos/one-3',
+      link: 'kulinarik/#one',
+      description: 'Kaiseki, wie es die Einheimischen mögen – in 6 Gängen zur Vollendung. '
     }
   },
+{
+  type: 'Feature',
+  geometry: {
+    type: 'Point',
+    coordinates: [135.828629, 34.678226]
+  },
+  properties: {
+    id: '4',
+    cat: 'kulinarik',
+    title: 'Teezeremonie',
+    img: 'kulinarik/photos/one-4',
+    link: 'kulinarik/#one',
+    description: 'Matcha oder Sencha – Teegenuss wird in Japan seit über 1000 Jahren durch feste Regeln bestimmt.'
+  }
+},
 
 
     //************** Outdoor ************
@@ -114,9 +131,9 @@
       id: '1',
       cat: 'outdoor',
       title: 'Mount Fuji',
-      img: 'one',
-      link: '#',
-      description: 'Mount Fuji, der höchste Berg Japans wird von den Einheimischen verehrt und ist fester Bestandteil der bildenden Kunst.'
+      img: 'tokio/photos/four-2',
+      link: 'tokio/#four',
+      description: 'Wandern ist in Japan eine Art physische Religion. Wer einen Sonnenaufgang am Fuji erlebt, wird gläubig'
     }
   },
     {
@@ -129,24 +146,9 @@
       id: '2',
       cat: 'outdoor',
       title: 'Kyushu',
-      img: 'two',
-      link: '#',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
-      }
-    },
-    {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [137.576409, 35.79764]
-      },
-      properties: {
-        id: '3',
-        cat: 'outdoor',
-        title: 'Kiso-Tal: Breitengrad',
-        img: 'three',
-        link: '#',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
+      img: 'outdoor/photos/one-1',
+      link: 'outdoor/#one',
+      description: 'Der aktivste Vulkan Japans - und ein überaus reizvoller Nationalpark'
       }
     },
     {
@@ -156,60 +158,12 @@
         coordinates: [129.738327, 32.627567]
       },
       properties: {
-        id: '4',
+        id: '3',
         cat: 'outdoor',
         title: 'Hashima-Island',
-        img: 'four',
-        link: '#',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
-      }
-    },
-
-
-    //************** Tradition ************
-  {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [139.75032, 35.683586]
-      },
-      properties: {
-        id: '1',
-        cat: 'tradition',
-        title: 'Kaiserpalast Tokio',
-        img: 'three',
-        link: '#',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
-      }
-    },
-    {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [135.773209, 34.967163]
-      },
-      properties: {
-        id: '2',
-        cat: 'tradition',
-        title: 'Fushii Inari-Taisha',
-        img: 'two',
-        link: '#',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisi&shy;cing elit. Lau&shy;dan&shy;tium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae.'
-      }
-    },
-    {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [135.755608, 35.021041]
-      },
-      properties: {
-        id: '3',
-        cat: 'tradition',
-        title: 'Geishas',
-        img: 'three',
-        link: '#',
-        description: 'Der Inbegriff der japanischen Weiblichkeit und Raffinesse sind die Geishas - und Kyoto ist das Herz der Geisha-Kultur.'
+        img: 'outdoor/photos/three-1',
+        link: 'outdoor/#three',
+        description: 'Was hat es mit dieser Geisterinsel vor der Küste Nagasakis auf sich?'
       }
     },
     {
@@ -220,16 +174,80 @@
       },
       properties: {
         id: '4',
-        cat: 'tradition',
-        title: 'Hakone Kowakien Yunessun ( Onsen)',
-        img: 'four',
-        link: '#',
-        description: 'Die Nachfrage nach Onsen ist hoch – in diesem Exemplar baden Sie in Rotwein.'
+        cat: 'outdoor',
+        title: 'Noboribetsu Onsen',
+        img: 'outdoor/photos/two-3',
+        link: 'outdoor/#three',
+        description: 'Hier dampft die Erde: Onsen mit Höllenfaktor.'
       }
-    }
+    },
 
-      ]
-    };
+
+    //************** Tradition ************
+
+
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [137.576409, 35.79764]
+      },
+      properties: {
+        id: '1',
+        cat: 'tradition',
+        title: 'Kiso-Tal',
+        img: 'tradition/photos/two-1',
+        link: 'tradition/#two',
+        description: 'Geschichtsstunde: Wandeln Sie im Kiso-Tal auf dem alten Handelsweg Nakasendo'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [135.755608, 35.021041]
+      },
+      properties: {
+        id: '2',
+        cat: 'tradition',
+        title: 'Geishas',
+        img: 'kulinarik/photos/two-4',
+        link: 'kulinarik/#two',
+        description: 'Der Inbegriff der japanischen Weiblichkeit und Raffinesse sind die Geishas - und Kyoto ist das Herz der Geisha-Kultur.'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [130.4433045, 31.3792701]
+      },
+      properties: {
+        id: '3',
+        cat: 'tradition',
+        title: 'Halbinsel Satsuma',
+        img: 'tradition/photos/three-1',
+        link: 'tradition/#three',
+        description: 'Da sie an der Spitze der damaligen Gesellschaftsstruktur standen, hatten die Samurai das Privileg, in eigenen Vierteln zu wohnen.'
+      }
+    },
+    {
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [139.75032, 35.683586]
+        },
+        properties: {
+          id: '4',
+          cat: 'tradition',
+          title: 'Kaiserpalast Tokyo',
+          img: 'tokio/photos/three-1',
+          link: 'tokio/#three',
+          description: 'Geheimnisvoll: nur wenige Gebäude und Gärten des Kaiserpalastes sind frei zugänglich'
+        }
+      }
+  ]
+};
 
 
     	// add markers to map
@@ -250,7 +268,7 @@
     new mapboxgl.Marker(el)
       .setLngLat(marker.geometry.coordinates)
       .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
-      .setHTML('<a class="text--black" href="{{site.baseurl}}/'+ marker.properties.cat+'/#'+marker.properties.img +'"><div class="bv-popup-img bg-img--4-3" style="background-image: url({{site.img}}/content/'+marker.properties.cat+'/'+marker.properties.img+'.jpg); "></div><div class="boxpad--lg vpad--sm"><div class=" text text--md text--black text--bold text--upper text--left" >' + marker.properties.title + '</div><div class="space--xxs"></div><div class="text text--justify text--md text--black">' + marker.properties.description + '<span class="text--red text--bold"> Mehr&nbsp;erfahren</span></div></div></a>'))
+      .setHTML('<a class="text--black" href="{{site.baseurl}}/'+marker.properties.link +'"><div class="bv-popup-img bg-img--4-3" style="background-image: url({{site.img}}/content/'+marker.properties.img+'.jpg); "></div><div class="boxpad--lg vpad--sm"><div class=" text text--md text--black text--bold text--upper text--left" >' + marker.properties.title + '</div><div class="space--xxs"></div><div class="text text--justify text--md text--black">' + marker.properties.description + '<span class="text--red text--bold"> Mehr&nbsp;erfahren</span></div></div></a>'))
 
       /**/
       .addTo(map);

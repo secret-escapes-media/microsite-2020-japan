@@ -1,6 +1,6 @@
 // moidifiers for the site footer theme, is passed as an option on include
 
-$footer-nav-color: $grey-darker;
+$footer-nav-color: $grey-darkest;
 
 .site-nav {
   &--footer {
@@ -14,10 +14,12 @@ $footer-nav-color: $grey-darker;
   }
   &--footer &__link {
     color: $grey-lightest;
-    &.is-current      { background-color: rgba($grey-darkest,.66); }
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    &.is-current      { background-color: rgba($white,.2); }
     .no-touch &:hover {
       color: $white;
-      background-color: rgba($grey-darkest,1);
+      background-color: rgba($white,.3);
      }
   }
 }

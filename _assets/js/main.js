@@ -1,6 +1,6 @@
 // general js for the project that wouldn't be a reuseable component
 
-
+/*
 $(window).on('scroll', function () {
 
 
@@ -19,8 +19,8 @@ $(window).on('scroll', function () {
 
   }  else  { $(".bv-banner-out").css({"opacity": calc });}
 });
-
-
+*/
+/*
 // Get the modal
 var modal = document.getElementById('bv-myModal');
 
@@ -53,7 +53,7 @@ window.onclick = function(event) {
 				$('#video')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
   }
 }
-
+*/
 
 
 // Make legend acceesible
@@ -61,29 +61,30 @@ var i;
 var j;
 var index_highest = 0;
 
-var pins = ['kulinarik', 'natur', 'tradition'];
+var pins = ['kulinarik', 'natur', 'tradition','tokio'];
 var coll = document.getElementsByClassName("bv-toggle");
 var coll1 = document.getElementsByClassName("marker--kulinarik");
 var coll2 = document.getElementsByClassName("marker--outdoor");
 var coll3 = document.getElementsByClassName("marker--tradition");
-console.log(coll2);
+var coll4 = document.getElementsByClassName("marker--tokio");
+console.log(coll1);
 
 document.getElementById('bv-pin1').addEventListener("click", function(){
 
 
 for (i = 1; i <= coll1.length; i++) {
 	//var zindex = document.getElementById('kulinarik'+i).style.getPropertyValue("z-index");
-  var elemkulinarik = document.getElementById('kulinarik'+i);
+  var elemKulinarik = document.getElementById('kulinarik'+i);
 
-  if (elemkulinarik.style.display === "none") {
-      elemkulinarik.style.display = "block";
+  if (elemKulinarik.style.display === "none") {
+      elemKulinarik.style.display = "block";
 			this.classList.add('bv-toggle-active');
       this.firstChild.style.opacity = "1";
 
 
     } else {
-      elemkulinarik.style.display = "none";
-			elemkulinarik.style.zIndex = 5;
+      elemKulinarik.style.display = "none";
+			elemKulinarik.style.zIndex = 5;
 			this.classList.remove('bv-toggle-active');
       this.firstChild.style.opacity = "0.4";
     }
@@ -94,15 +95,15 @@ document.getElementById('bv-pin2').addEventListener("click", function(){
 
 for (i = 1; i <= coll2.length; i++) {
 
-  var elemNatur = document.getElementById('outdoor'+i);
+  var elemOutdoor = document.getElementById('outdoor'+i);
 
-  if (elemNatur.style.display === "none") {
-      elemNatur.style.display = "block";
+  if (elemOutdoor.style.display === "none") {
+      elemOutdoor.style.display = "block";
 			this.classList.add('bv-toggle-active');
       this.firstChild.style.opacity = "1";
 
     } else {
-      elemNatur.style.display = "none";
+      elemOutdoor.style.display = "none";
 			this.classList.remove('bv-toggle-active');
       this.firstChild.style.opacity = "0.4";
     }
@@ -113,16 +114,37 @@ document.getElementById('bv-pin3').addEventListener("click", function(){
 
 for (i = 1; i <= coll3.length; i++) {
 
-  var elemAbenteuer = document.getElementById('tradition'+i);
+  var elemTradition = document.getElementById('tradition'+i);
 
 
-  if (elemAbenteuer.style.display === "none") {
-      elemAbenteuer.style.display = "block";
+  if (elemTradition.style.display === "none") {
+      elemTradition.style.display = "block";
 			this.classList.add('bv-toggle-active');
       this.firstChild.style.opacity = "1";
 
     } else {
-      elemAbenteuer.style.display = "none";
+      elemTradition.style.display = "none";
+			this.classList.remove('bv-toggle-active');
+      this.firstChild.style.opacity = "0.4";
+
+    }
+  }
+});
+
+document.getElementById('bv-pin4').addEventListener("click", function(){
+
+for (i = 1; i <= coll4.length; i++) {
+
+  var elemTokio = document.getElementById('tokio'+i);
+
+
+  if (elemTokio.style.display === "none") {
+      elemTokio.style.display = "block";
+			this.classList.add('bv-toggle-active');
+      this.firstChild.style.opacity = "1";
+
+    } else {
+      elemTokio.style.display = "none";
 			this.classList.remove('bv-toggle-active');
       this.firstChild.style.opacity = "0.4";
 
